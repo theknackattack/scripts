@@ -1,0 +1,5 @@
+nano ~/.bashrc
+alias name='path of the directory'
+source ~./bashrc
+
+
