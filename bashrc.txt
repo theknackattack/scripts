@@ -121,4 +121,4 @@ fi
 
 alias code='/mnt/c/Users/jknac/AppData/Local/Programs/Microsoft\ VS\ Code/bin/code'
 alias ocaml='utop'
-alias school='cd /home/jonathan/Github/_school/classes/'
+alias school='cd /home/jonathan/GitHub/_school/classes/'
